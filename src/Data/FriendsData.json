@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Bella Thomas",
+            "picture": "https://randomuser.me/api/portraits/women/84.jpg",
+            "viewed": false,
+            "message": "I never forget",
+            "time" : "04.01"
+        },
+        {
+            "id": 2,
+            "name": "Renee Franklin",
+            "picture": "https://randomuser.me/api/portraits/women/86.jpg",
+            "viewed": true,
+            "message": "Wow look amazing 😍",
+            "time" : "04.02"
+        },
+        {
+            "id": 3,
+            "name": "Vincent Vårdal",
+            "picture": "https://randomuser.me/api/portraits/men/14.jpg",
+            "viewed": false,
+            "message": "Don't forget karaoke at 10 pm",
+            "time" : "04.04"
+        },
+        {
+            "id": 4,
+            "name": "Anna Leroux",
+            "picture": "https://randomuser.me/api/portraits/women/95.jpg",
+            "viewed": true,
+            "message": "Have a nice day",
+            "time" : "09.13"
+        },
+        {
+            "id": 5,
+            "name": "Anthony Foster",
+            "picture": "https://randomuser.me/api/portraits/men/32.jpg",
+            "viewed": true,
+            "message": "Thank you so much 🙌",
+            "time" : "13.27"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "sender": 1,
+            "reciver": 6,
+            "conversation_id" : "1-6",
+            "message": "Hi?",
+            "time": "04.01"
+        },
+        {
+            "id": 2,
+            "sender": 6,
+            "reciver": 1,
+            "conversation_id" : "1-6",
+            "message": "Hi",
+            "time": "04.02"
+        },
+        {
+            "id": 3,
+            "sender": 1,
+            "reciver": 6,
+            "conversation_id" : "1-6",
+            "message": "How are you?",
+            "time": "04.01"
+        },
+        {
+            "id": 4,
+            "sender": 6,
+            "reciver": 1,
+            "conversation_id" : "1-6",
+            "message": "I am fine. You?",
+            "time": "04.02"
+        },
+          {
+            "id": 5,
+            "sender": 1,
+            "reciver": 6,
+            "conversation_id" : "1-6",
+            "message": "Thanks",
+            "time": "04.01"
+        },
+        {
+            "id": 6,
+            "sender": 1,
+            "reciver": 6,
+            "conversation_id" : "1-6",
+            "message": "where are you?",
+            "time": "04.02"
+        },
+        {
+            "id": 7,
+            "sender": 6,
+            "reciver": 1,
+            "conversation_id" : "1-6",
+            "message": "I'm at work",
+            "time": "04.02"
+        },
+        {
+            "id": 8,
+            "sender": 6,
+            "reciver": 1,
+            "conversation_id" : "1-6",
+            "message": "Have you prepared for the evening?",
+            "time": "04.02"
+        },
+        {
+            "id": 9,
+            "sender": 1,
+            "reciver": 6,
+            "conversation_id" : "1-6",
+            "message": "You didn't forget",
+            "time": "04.02"
+        },
+        {
+            "id": 10,
+            "sender": 6,
+            "reciver": 1,
+            "conversation_id" : "1-6",
+            "message": "I never forget",
+            "time": "04.02"
+        }
+    ]
+}
